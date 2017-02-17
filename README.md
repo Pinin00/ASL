@@ -1,3 +1,12 @@
+# In quest esperienza cercheremo di capire come funziona un drone. ci siamo divisi in 3 gruppi da 12 persone, ognuno con un ruolo diverso.
+
+
+
+
+
+
+
+
 # Drone
 
 ### Durante questa esperienza cercheremo di capire come è fatto un drone e come assemblarlo. 
